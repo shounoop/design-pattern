@@ -6,9 +6,11 @@
   1. Creational Patterns
     - These patterns are used to create objects in a way that is suitable for a particular situation.
     - Examples of creational patterns incluse: Singleton, Factory Method, Abstract Factory, Builder, and Prototype.
+    
   2. Structural Patterns
     - These patterns are used to provide a way to organize objects in a particular structure.
     - Examples of structural patterns include: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, and Proxy.
+  
   3. Behavioral Patterns
     - These patterns are used to manage communication and behavior between objects in a system.
     - Examples of behavioral patterns incluse: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observe, State, Strategy, Template Method, and Visitor.
