@@ -40,3 +40,12 @@
   - It allows clients to treat individual objects and groups of objects uniformly.
   - In other words, the Composite pattern allows you to treat a single object or a group of objects in the same way.
   
+#### 2.4. Decorator Pattern
+  - This pattern allows for dynamic behavior modification
+  
+#### 2.5. Facade Pattern
+  - This pattern simplifies complex systems
+
+#### 2.6. Flyweight Pattern
+  - This pattern reduces memory usage by sharing common data
+
